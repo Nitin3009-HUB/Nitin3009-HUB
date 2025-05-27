@@ -1,7 +1,10 @@
-# About me
+# Hi, I'm a data enthusiast who loves turning raw data into meaningful insights. I enjoy working on real-world projects involving data analysis, visualization, and storytelling.
 
-- 🎓 I'm a fresher Data Analyst passionate about data storytelling  
-- 🧰 Tools: Excel, SQL, Power BI, Python  
-- 🌱 Currently learning data modeling and DAX  
-- ✨ Fun fact: I love solving logic puzzles!
+📊 Skilled in Python, Excel, Power BI, and SQL
+
+📈 Interested in business analytics and data-driven decision making
+
+🧠 Always learning and exploring new tools and techniques
+
+🚀 Open to collaborations and new opportunities
 
