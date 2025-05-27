@@ -1,4 +1,4 @@
-# Hi, I'm a data enthusiast who loves turning raw data into meaningful insights. I enjoy working on real-world projects involving data analysis, visualization, and storytelling.
+# 👋 Hi, I'm a data enthusiast who loves turning raw data into meaningful insights. I enjoy working on real-world projects involving data analysis, visualization, and storytelling.
 
 📊 Skilled in Python, Excel, Power BI, and SQL
 
