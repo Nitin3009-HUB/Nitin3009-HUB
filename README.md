@@ -2,7 +2,7 @@
 
 📊 Skilled in Python, Excel, Power BI, and SQL
 
-📈 Interested in business analytics and data-driven decision making
+📈 Interested in Data analytics and data-driven decision making
 
 🧠 Always learning and exploring new tools and techniques
 
